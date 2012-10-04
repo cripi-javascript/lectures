@@ -1,4 +1,1 @@
-lectures
-========
-
-КРиПИ - Лекции JavaScript
+# КРиПИ - Лекции JavaScript
