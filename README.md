@@ -26,3 +26,11 @@
 ## Не рекомендуемые редакторы кода
 
   * notepad.exe
+
+## Браузеры
+
+  * Chrome или Yandex
+  * Safari 5+
+  * Firefox 15+
+  * Opera 12+
+  * IE 10 - в версии 9 и ниже не работает `"use strict";`
