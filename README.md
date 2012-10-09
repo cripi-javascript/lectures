@@ -15,3 +15,14 @@
   7. [gh-client] Жмем Sync - копия с ПК отправляется в ваш репозиторий
   8. [браузер] Если вы уверены, что все сделали жмите Pull Request
   9. Получем уведомления по почте и вносим изменения по необходимости (4-7, без Pull Request)
+
+## Рекомендуемые редакторы кода
+
+  * [WebStorm](http://www.jetbrains.com/webstorm/) - 30 days free
+  * [NetBeans](http://netbeans.org/) - free
+  * [Cloud9 IDE](https://c9.io/) - free, Online редактор
+  * Notepad++, PSPad, ...
+
+## Не рекомендуемые редакторы кода
+
+  * notepad.exe
