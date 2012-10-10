@@ -4,6 +4,15 @@
 
 Видео о том как начать работать с Github тут http://video.yandex.ru/users/davydov-mikhail/view/1/
 
+## Проблемы с JSLint
+
+Вот эта сточка в начале кода выключает некоторые проверки у jslit `/*jslint plusplus: true, vars: true, browser: true, devel: true */`
+
+  * plusplus - дает использовать ++ --
+  * vars - дает использовать несколько var
+  * browser - дает использовать окружение браузера: document, window...
+  * devel - дает использовать `alert() prompt() confirm() console.log()`
+
 ## Воркфлоу
 
   1. [браузер] По лекциям находим ссылку на домашнее задание
