@@ -13,6 +13,8 @@
   * browser - дает использовать окружение браузера: document, window...
   * devel - дает использовать `alert() prompt() confirm() console.log()`
 
+Можно не обращать внимание на `Unexpected 'typeof'. Use '===' to compare directly with undefined.`
+
 ## Воркфлоу
 
   1. [браузер] По лекциям находим ссылку на домашнее задание
