@@ -4,6 +4,8 @@
 
 Видео о том как начать работать с Github тут http://video.yandex.ru/users/davydov-mikhail/view/1/
 
+О том как работать в git с консоли можно посмотреть тут http://githowto.com/ru (это не нужно если вы используете клиент Github)
+
 ## Проблемы с JSLint
 
 Вот эта сточка в начале кода выключает некоторые проверки у jslit `/*jslint plusplus: true, vars: true, browser: true, devel: true */`
